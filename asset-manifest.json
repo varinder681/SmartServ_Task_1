@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SmartServ_Task_1/static/css/main.bc6709b3.css",
-    "main.js": "/SmartServ_Task_1/static/js/main.09a009c9.js",
+    "main.js": "/SmartServ_Task_1/static/js/main.e956aa04.js",
     "index.html": "/SmartServ_Task_1/index.html",
     "main.bc6709b3.css.map": "/SmartServ_Task_1/static/css/main.bc6709b3.css.map",
-    "main.09a009c9.js.map": "/SmartServ_Task_1/static/js/main.09a009c9.js.map"
+    "main.e956aa04.js.map": "/SmartServ_Task_1/static/js/main.e956aa04.js.map"
   },
   "entrypoints": [
     "static/css/main.bc6709b3.css",
-    "static/js/main.09a009c9.js"
+    "static/js/main.e956aa04.js"
   ]
 }
