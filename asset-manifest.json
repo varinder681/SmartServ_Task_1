@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SmartServ_Task_1/static/css/main.169ff3ae.css",
+    "main.js": "/SmartServ_Task_1/static/js/main.4d04612e.js",
+    "index.html": "/SmartServ_Task_1/index.html",
+    "main.169ff3ae.css.map": "/SmartServ_Task_1/static/css/main.169ff3ae.css.map",
+    "main.4d04612e.js.map": "/SmartServ_Task_1/static/js/main.4d04612e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.169ff3ae.css",
+    "static/js/main.4d04612e.js"
+  ]
+}
