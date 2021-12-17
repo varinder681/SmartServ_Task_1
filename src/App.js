@@ -75,7 +75,7 @@ const App = () => {
                       <p>{product.popularity}</p>
                     </div>
                     <div className="col col-last">
-                      <p>{product.price}</p>
+                      <p>{`₹ ${product.price}`}</p>
                     </div>
                   </div>
                 );
